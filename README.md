@@ -1,0 +1,1 @@
+# rosy-animated-banner-template
